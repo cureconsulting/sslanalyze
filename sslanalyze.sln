@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sslanalyze", "sslanalyze.csproj", "{FDC1BEDA-0F2C-A1C1-0C51-7549FC37313F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDC1BEDA-0F2C-A1C1-0C51-7549FC37313F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDC1BEDA-0F2C-A1C1-0C51-7549FC37313F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDC1BEDA-0F2C-A1C1-0C51-7549FC37313F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDC1BEDA-0F2C-A1C1-0C51-7549FC37313F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6417A160-82CA-4DB5-8D8D-CEB64F7E4BF1}
+	EndGlobalSection
+EndGlobal
